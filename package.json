@@ -1,0 +1,29 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonreb/cursonode.git"
+  },
+  "author": "Marlon Rebouças <marlon_in@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "description": "nodejs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/marlonreb/cursonode/issues"
+  },
+  "homepage": "https://github.com/marlonreb/cursonode#readme"
+}
